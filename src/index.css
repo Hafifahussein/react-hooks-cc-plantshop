@@ -99,7 +99,11 @@ input:focus {
 
 .cards {
   list-style: none;
+  flex-direction: column;
+  
 }
+
+
 
 .card {
   margin: 1rem;
